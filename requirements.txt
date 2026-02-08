@@ -1,0 +1,2 @@
+# Requires: theoretical-impossibility
+# (Not available on PyPI)
